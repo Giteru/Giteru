@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Giteru
 - 👀 I’m interested in coding and contributing to github projects 
-- 🌱 I’m currently learning react html,java object oriented programming, information systems security, Quality Assurance Assurance and Testing.
-- 💞️ I’m looking to collaborate on web development projects and system testing and Quality Assurance.
+- 🌱 I’m currently focusing on Databases, big data, user training, object oriented programming, information systems security, Quality Assurance Assurance and Testing.
+- 💞️ I’m looking to collaborate on big data projects and system testing and Quality Assurance.
   
 
 <!---
